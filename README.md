@@ -6,7 +6,7 @@ We're particularly interested in fixing edge-cases, expanding test coverage and 
 
 ```bash
 git remote set-url upstream https://github.com/PHPMailer/PHPMailer.git
-
+```
 
 ## History
 * PHPMailer was originally written in 2001 by Brent R. Matzelle as a [SourceForge project](https://sourceforge.net/projects/phpmailer/).
